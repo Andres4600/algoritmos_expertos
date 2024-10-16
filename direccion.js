@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 //Almacenando los gifs
-const gifs = [
+const gifs_c = [
     "Canibal/Canibal_pt1.gif",
     "Canibal/Canibal_pt2.gif",
     "Canibal/Canibal_pt3.gif",
